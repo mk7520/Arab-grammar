@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">تطبيق قواعد اللغة العربية</string>
+    <string name="welcome_message">مرحبًا بك في تطبيق قواعد اللغة العربية!</string>
+    <string name="instruction">يرجى اتباع التعليمات لإكمال الإعداد.</string>
+</resources>
